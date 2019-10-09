@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+#card {
+	background-color: #FFD8D9;
+	background-image: url(%E5%BB%A3%E4%B8%89%E5%B9%B306%E6%9E%97%E6%80%A1%E5%AE%89/DOT_BG.jpg);
+	margin: auto;
+	padding: 10px;
+	height: 480px;
+	width: 320px;
+	border-radius: 20xp;
+	position: relative;
+}
+#pic {
+	margin: auto;
+	height: 200px;
+	width: 200px;
+	overflow: hidden;
+}
+#pic {
+	margin: auto;
+	height: 200px;
+	width: 200px;
+	overflow: hidden;
+}
+#pic {
+	background-color: #FFDDDE;
+	margin: auto;
+	height: 200px;
+	width: 200px;
+	overflow: hidden;
+}
+#word {
+	background-color: #FFFFFF;
+	margin: auto;
+	width: 60%;
+}
+h1 {
+}
+h3 {
+}
+ul li {
+}
